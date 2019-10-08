@@ -1,0 +1,392 @@
+*{
+	font-size: 14px;
+}
+p{
+	color: #777;
+}
+
+.swi_img{
+  height: 200px;
+  width: 100%;
+}
+.mar_top{
+  margin-top: 15px;
+  height: 400px;
+}
+.person_info{
+	margin: 15px;
+	border-bottom: 5px solid #eaeaea;
+	padding-bottom: 10px;
+}
+.person_info img{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+}
+.person_info_1{
+	
+}
+.person_info li{
+	position: relative;
+}
+.user_admin{
+	  position: absolute;
+	  right: 0px;
+	  top:-2px;
+	  font-size: 14px;
+}
+.person_info_next{
+	margin: 15px;
+	border-bottom: 5px solid #eaeaea;
+}
+.person_info_next li{
+	position: relative;
+}
+.turn_right{
+	position: absolute;
+	right: 0px;
+	top:-9px;
+	font-size: 14px;
+}
+.turn_right_tx{
+	position: absolute;
+	right: 0px;
+	top:-25px;
+	font-size: 14px;
+}
+.turn_right_tx img{
+	width: 35px;
+	height: 35px;
+	border-radius: 5px;
+}
+.person_info_next_next{
+	margin: 15px;
+}
+.person_info_next_next li{
+	position: relative;
+}
+.person_info_2{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.mess{
+	margin: 15px;
+}
+.mess img{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+}
+.mess_num{
+	text-align: center;
+}
+.mess_num span{
+	color:#fff;
+	background-color: red;
+	height: 15px;
+	width: 15px;
+	border-radius: 15px;
+	display: inline-block;
+	line-height: 15px;
+	text-align: center;
+	font-size: 10px;
+}
+.mess_right{
+	position: absolute;
+	right: 0px;
+	top:-7px;
+}
+.mess li{
+	border-bottom: 1px solid #eaeaea;
+}
+.control_right{
+	position: absolute;
+	right: 0px;
+	margin-top: -55px;
+	margin-right: 15px;
+}
+.id_nav {
+    height: 181px;
+    overflow: hidden;
+    background-color: #fff;
+    margin-top: 5px;
+    width: 100%;
+    border-bottom: 5px #ededed solid;
+}
+.puff_left {
+    float: left !important;
+}
+.id_nav_l {
+    width: 40%;
+    text-align: center;
+    border-right: 1px #ededed solid;
+    padding: 5% 0%;
+	background-color: #2c80fa;
+	height: 100%;
+}
+.id_nav_r {
+    width: 59%;
+}
+.id_nav_rt {
+    position: relative;
+    border-bottom: 1px #ededed solid;
+    padding: 5% 0%;
+    padding-left: 5%;
+    line-height: 20px;
+    font-size: 14px;
+	background-color: #2c80fa;
+}
+.id_nav_rt img {
+    position: absolute;
+    height: 15px;
+    top: 10;
+    right: 5%;
+}
+.clear_border {
+    border: none !important;
+}
+.id_nav_rt a span {
+    color: #fff;
+}
+.wentiup_con{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.textarea_width{
+	width:100%;
+}
+.content_bor img{
+	width: 100%;
+	height: 150px;
+}
+.group_text{
+	font-size: 18px;
+	line-height: 20px;
+}
+.group_text label{
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 35px;
+}
+.content_bor{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.tousu_status{
+	background-color: #eaeaea;
+	width: 50px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.kaohe{
+	margin: 15px;
+}
+.kh_title{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #eaeaea;
+	margin-top: 20px;
+}
+.kh_content{
+	margin-top: 15px;
+	line-height: 30px;
+	padding-left: 30px;
+	
+}
+.kh_content span{
+	font-weight: 700;
+}
+.kh_bott{
+	margin-top:200px;
+	line-height: 30px;
+	font-weight: 700;
+	text-align: center;
+}
+.select_start li{
+	float: left;
+	text-align: center;
+	color:#333333;
+	font-size: 16px;
+	width: 26%;
+	margin-left: 15%;
+	margin-top: 10px;
+}
+.nav-tab-active{
+	border-bottom: 3px solid #f00;
+}
+.tab_nav{
+	height: 30px;
+	line-height: 30px;
+	width: 100%;
+	background-color: #fff;
+	position: relative;
+	z-index: 100;
+}
+
+.txl_xq .touxiang{
+	text-align: center;
+	width: 80px;
+	height: 80px;
+	font-size: 26px;
+	background-color: #666666;
+	border-radius: 80px;
+	color:#fff;
+	line-height: 80px;
+	margin: 20px 38%;
+	font-weight: 600;
+}
+.txl_xq .name{
+	text-align: center;
+	font-size: 24px;
+	font-weight: 600;
+}
+.txl_xq .tel{
+	margin: 20px;
+	font-size: 18px;
+	font-weight: 500;
+}
+.tel_num{
+	margin-left: 20px;
+	border-bottom: 1px solid #999999;
+	padding-bottom: 5px;
+}
+.tel_num a{
+	font-size: 18px;
+	font-weight: 500;
+}
+.ss_input{
+	text-align: center;
+	margin: 5px;
+}
+.ss_input input{
+	border: 1px solid #cacaca;
+	border-radius: 5px;
+}
+.ss_input button{
+	background-color: #2ddcd3;
+	color: #fff;
+	border: 0;
+	width: 60px;
+	height: 30px;
+	border-radius: 5px;
+} 
+.chatside{
+    padding: 5px;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.chat_limg{
+    width: 40px;
+    height:40px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-top: 15px;
+	float: right;
+}
+.chat_limg a img{
+    width: 40px;
+    height:40px;
+	
+}
+.chat_txt{
+    max-width: 240px;
+    margin-left: 10px;
+    padding: 5px 2px;
+    font-size: 16px;
+    line-height:20px;
+    background-color: #eeeeee;
+    color:#000;
+    position: relative;
+    border-radius: 10px;
+}
+.chat_txt2{
+    max-width: 230px;
+    margin-right: 15px;
+    padding: 5px 2px;
+    font-size: 16px;
+    line-height:20px;
+    background-color: #84c757;
+    color:#fff;
+    position: relative;
+    border-radius: 10px;
+	float: right;
+}
+.chat_txt span{
+    color: #999;
+    display: block;
+}
+.let_icon {
+    display: block;
+    width: 0;
+    height: 0;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: transparent;
+    border-left-width: 0;
+    border-right-color: #EEEEEE;
+    border-right-style: solid;
+    top: 20px;
+    left: -10px;
+    position: absolute;
+}
+.right_icon {
+    display: block;
+    width: 0;
+    height: 0;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: transparent;
+    border-right-width: 0;
+    border-left-color: #84c757;
+    border-left-style: solid;
+    top: 30px;
+    right: -10px;
+    position: absolute;
+}
+
+.postinput{
+    height:30px;
+    padding:5px;
+    background-color: #fff;
+    border-top: 2px #ededed solid;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 14px;
+}
+.postinput input{
+    width: 80%;
+    height:20px;
+    border: 2px #ededed solid;
+    border-radius: 10px;
+    line-height:20px;
+    color: #999;
+    text-indent: 10px;
+    float: left;
+}
+.postinput a{
+    float: left;
+    width: 11%;
+    height: 20px;
+    margin-left: 2%;
+}
+.postinput a i{
+    color: #109DCD;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+.postinput a img{
+    height: 100%;
+}
